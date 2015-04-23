@@ -10,7 +10,7 @@ Some of my favorite typography resources.
 * [Typographer’s Glossary](https://playtype.com/about/typefaces/glossary)
 
 ## Using Type
-* [Butterick’s Practical Typography](http://practicaltypography.com) (Probably the best thing on this list—I find myself referring to it more than I’d care to admit.
+* [Butterick’s Practical Typography](http://practicaltypography.com) (Probably the best thing on this list—I find myself referring to it more than I’d care to admit)
 * [Ask H&FJ: Four Ways to Mix Fonts](http://www.typography.com/email/2010_03/index.htm)
 * [Erik Spiekermann’s Typo Tips](http://classic.fontshop.com/education/pdf/typo_tips.pdf) (Erik Spiekermann is somewhat of a legend)
 * [Hack Design: Dive Into Typography](https://hackdesign.org/lessons/2)
