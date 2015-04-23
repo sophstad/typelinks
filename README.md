@@ -3,12 +3,10 @@ Some of my favorite typography resources.
 
 ## Online
 ### Type Design
+* [Typographer’s Glossary](https://playtype.com/about/typefaces/glossary)
 * Games
     * [Shape Type](http://shape.method.ac), a letter shaping game
     * [Kern Type](http://type.method.ac), a kerning game
-
-### About Type
-* [Typographer’s Glossary](https://playtype.com/about/typefaces/glossary)
 
 ### Using Type
 * [Butterick’s Practical Typography](http://practicaltypography.com) (Probably the best thing on this list—I find myself referring to it more than I’d care to admit)
