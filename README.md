@@ -1,5 +1,5 @@
 # Typelinks
-Some of my favorite typography resources.
+Some of my favorite typography resources. The absolute best are __bold__.
 
 ## Online
 ### Type Design
