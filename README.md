@@ -27,3 +27,5 @@ Some of my favorite typography resources. The absolute best are __bold__.
       * [Colophon Foundry](http://www.colophon-foundry.org/) has a distinct and offbeat style. [Aperçu](http://www.colophon-foundry.org/fonts/apercu/regular) is basically everywhere on the web nowadays.
 
 ## Offline
+* [Just My Type](http://www.amazon.com/Just-My-Type-About-Fonts/dp/1592407463) is a fun, easy read.
+* [Designing Type](http://www.amazon.com/Designing-Type-Karen-Cheng/dp/0300111509) is one of the best resources for making a typeface, letter by letter.
