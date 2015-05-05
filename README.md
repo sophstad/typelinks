@@ -1,4 +1,4 @@
-# Typelinks
+# typelinks
 Some of my favorite typography resources. The absolute best are __bold__.
 
 ## Online
