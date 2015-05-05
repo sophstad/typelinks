@@ -19,7 +19,7 @@ Some of my favorite typography resources. The absolute best are __bold__.
 * A user over at Typophile compiled [this guide](http://typophile.com/node/12369) to creating fonts.
 * Stephen Coles posted [this great response](http://www.quora.com/What-is-some-good-advice-for-aspiring-hobbyist-type-designers) on Quora.
 
-### Misc
+### Miscellaneous
 * [I Love Typography](http://ilovetypography.com) posts super interesting, historically-oriented pieces.
 * Favorite Foundries
       * [Hoefler & Co.](http://www.typography.com): H&Co is basically an industry standard at this point. They have particularly well designed type specimens.
