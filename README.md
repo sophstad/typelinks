@@ -22,7 +22,7 @@ Some of my favorite typography resources. The absolute best are __bold__.
 ### Miscellaneous
 * [I Love Typography](http://ilovetypography.com) posts super interesting, historically-oriented pieces.
 * Favorite Foundries
-      * [Hoefler & Co.](http://www.typography.com): H&Co is basically an industry standard at this point. They have particularly well designed type specimens.
+      * [Hoefler & Co.](http://www.typography.com): H&Co is basically an industry standard at this point. They have particularly well designed type specimens, plus [Discover.typography](http://discover.typography.com) is amazing.
       * [Klim Type Foundry](https://klim.co.nz) is particularly great at display faces. My favorites are Tiempos, Pitch, and Founders Grotesk.
       * [Colophon Foundry](http://www.colophon-foundry.org/) has a distinct and offbeat style. [Aperçu](http://www.colophon-foundry.org/fonts/apercu/regular) is basically everywhere on the web nowadays.
 * [Fount](http://fount.artequalswork.com) is a bookmarklet I use all the time for identifying webfonts.
