@@ -26,6 +26,7 @@ Some of my favorite typography resources. The absolute best are __bold__.
       * [Klim Type Foundry](https://klim.co.nz) is particularly great at display faces. My favorites are Tiempos, Pitch, and Founders Grotesk.
       * [Colophon Foundry](http://www.colophon-foundry.org/) has a distinct and offbeat style. [Aperçu](http://www.colophon-foundry.org/fonts/apercu/regular) is basically everywhere on the web nowadays.
 * [Fount](http://fount.artequalswork.com) is a bookmarklet I use all the time for identifying webfonts.
+* [Type Sample](http://www.typesample.com) is a site I've just started using to collect webfonts I like.
 
 ## Offline
 * [Just My Type](http://www.amazon.com/Just-My-Type-About-Fonts/dp/1592407463) is a fun, easy read.
