@@ -11,7 +11,7 @@ Some of my favorite typography resources. The absolute best are __bold__.
 ### Using Type
 * __[Butterick’s Practical Typography](http://practicaltypography.com)__ is probably the best thing on this list—I find myself referring to it more than I’d care to admit.
 * [Ask H&FJ: Four Ways to Mix Fonts](http://www.typography.com/email/2010_03/index.htm)
-* [Erik Spiekermann’s Typo Tips](http://classic.fontshop.com/education/pdf/typo_tips.pdf – Erik Spiekermann is more or less a legend in the type world.
+* [Erik Spiekermann’s Typo Tips](http://classic.fontshop.com/education/pdf/typo_tips.pdf) – Erik Spiekermann is more or less a legend in the type world.
 * [Hack Design: Dive Into Typography](https://hackdesign.org/lessons/2)
 
 ### Making Fonts
