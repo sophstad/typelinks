@@ -33,3 +33,4 @@ Some of my favorite typography resources. The absolute best are __bold__.
 ## Offline
 * [Just My Type](http://www.amazon.com/Just-My-Type-About-Fonts/dp/1592407463) is a fun, easy read.
 * [Designing Type](http://www.amazon.com/Designing-Type-Karen-Cheng/dp/0300111509) is one of the best resources for making a typeface, letter by letter.
+* [An Alphabetical Book About Nokia Pure](https://www.amazon.com/Alphabetical-Book-About-Nokia-Pure/dp/3899553888) is a beautiful deep-dive into the creation of Nokia’s own typeface.
