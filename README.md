@@ -21,6 +21,7 @@ Some of my favorite typography resources. The absolute best are __bold__.
 * [Glyphs Mini](https://glyphsapp.com/glyphs-mini) is my tool of choice for tinkering with type design.
 
 ### Miscellaneous
+* [Future Fonts](https://www.futurefonts.xyz) is a new, clever site. Designers upload in-progress typefaces, which can be purchased on the cheap. As they work on them, updates are made available and the price increases. It's a great way to support designers and get some funky, wonderful letters for the low.
 * [I Love Typography](http://ilovetypography.com) posts interesting, historically-oriented pieces.
 * Favorite Foundries
       * [Hoefler & Co.](http://www.typography.com): H&Co is more or less an industry standard at this point. They have particularly well designed type specimens, plus [Discover.typography](http://discover.typography.com) is amazing. Also, [this](http://www.bloomberg.com/bw/articles/2014-04-08/font-war-inside-the-design-worlds-20-million-divorce)!
