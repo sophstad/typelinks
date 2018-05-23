@@ -24,9 +24,10 @@ Some of my favorite typography resources. The absolute best are __bold__.
 * __[Future Fonts](https://www.futurefonts.xyz)__ is a new, clever site. Designers upload in-progress typefaces, which can be purchased on the cheap. As they work on them, updates are made available and the price increases. It's a great way to support designers and get some funky, wonderful letters for the low.
 * [I Love Typography](http://ilovetypography.com) posts interesting, historically-oriented pieces.
 * Favorite Foundries
-   * [Hoefler & Co.](http://www.typography.com): H&Co is more or less an industry standard at this point. They have particularly well designed type specimens, plus [Discover.typography](http://discover.typography.com) is amazing. Also, [this](http://www.bloomberg.com/bw/articles/2014-04-08/font-war-inside-the-design-worlds-20-million-divorce)!
    * [Klim Type Foundry](https://klim.co.nz) is particularly great at display faces. My favorites are Tiempos, Pitch, and Founders Grotesk.
    * [Colophon Foundry](http://www.colophon-foundry.org/) has a distinct and offbeat style. [Aperçu](http://www.colophon-foundry.org/fonts/apercu/regular) is basically everywhere on the web nowadays.
+   * [Schick Toikka](https://www.schick-toikka.com)
+   * [Good Type Foundry](https://www.goodtypefoundry.com)
 * __[Fount](http://fount.artequalswork.com)__ is a bookmarklet I use all the time for identifying webfonts.
 * [Type Sample](http://www.typesample.com) is a site I've just started using to collect webfonts I like.
 * [Type Detail](http://typedetail.com) is a cool side project looking at the unique features of various typefaces.
