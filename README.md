@@ -28,6 +28,8 @@ Some of my favorite typography resources. The absolute best are __bold__.
    * [Colophon Foundry](http://www.colophon-foundry.org/) has a distinct and offbeat style. [Aperçu](http://www.colophon-foundry.org/fonts/apercu/regular) is basically everywhere on the web nowadays.
    * [Schick Toikka](https://www.schick-toikka.com)
    * [Good Type Foundry](https://www.goodtypefoundry.com)
+   * [Dinamo](https://www.abcdinamo.com/front)
+   * [Lineto](https://lineto.com)
 * __[Fount](http://fount.artequalswork.com)__ is a bookmarklet I use all the time for identifying webfonts.
 * [Type Sample](http://www.typesample.com) is a site I've just started using to collect webfonts I like.
 * [Type Detail](http://typedetail.com) is a cool side project looking at the unique features of various typefaces.
